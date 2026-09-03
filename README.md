@@ -14,7 +14,7 @@ This is the "Full Tile" page for the Interactive Labs tile in the
 | Lab | What you do |
 | --- | --- |
 | [A+ Core 1 Field Service Center](https://rafikiscyent888.github.io/A-Core-1-Field-Service-Center/) | Generated service calls for 220-1201 — diagnose, order the part, follow the procedure, prove the repair |
-| A+ Core 2 Field Service Center | *In development.* The same bench for 220-1202 |
+| [A+ Core 2 Field Service Center](https://rafikiscyent888.github.io/A-Core-2-Field-Service-Center/) | The same bench for 220-1202 — Windows and operating systems, security, software troubleshooting and operational procedures, with recall drills alongside the tickets |
 | [Patch Bay](https://rafikiscyent888.github.io/Patch-Bay/) | Terminate and trace runs across six topologies, then troubleshoot from a Windows or Linux command line |
 | [OSI Model Lab](https://rafikiscyent888.github.io/OSI-Model/) | Follow data down the seven layers and back up |
 | [Subnet Calculator](https://rafikiscyent888.github.io/Subnet-Calculator-for-Network/) | Work subnets by hand and check yourself |
