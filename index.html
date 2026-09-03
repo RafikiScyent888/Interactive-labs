@@ -15,11 +15,16 @@
        page stops the gradient deeper so every element on it clears AAA
        wherever it happens to sit. */
     --royal-blue-light: #1b3068;
-    /* Matches the Interactive Labs tile in the command centre. A deep gold
-       rather than the bright one, because Security+ already owns bright
-       yellow and two yellow tiles read as related. */
-    --royal-gold: #6d4c00;
+    /* Matches the Interactive Labs tile in the command centre. Was a deep
+       gold (#6d4c00), chosen when the brief said yellow but yellow was
+       already Security+; the owner did not like it and asked for stainless
+       silver. Brushed metal is the one finish that reads as workshop, which
+       is what every link on this page goes to.
+       It is light, so it carries DARK text — white on it measures 1.6:1.
+       Measured with the dark token: 9.72:1 against the 4.5 large-text floor. */
+    --royal-steel: #bcc3c9;
     --text-light: #f5f7ff;
+    --text-dark: #16192e;
     --card-bg-alpha: rgba(255,255,255,0.06);
   }
 
@@ -69,8 +74,8 @@
 
   .tile-header {
     padding: 1rem 1.25rem;
-    background: var(--royal-gold);
-    color: var(--text-light);
+    background: var(--royal-steel);
+    color: var(--text-dark);
     font-size: 1.25rem;
     font-weight: 700;
   }
