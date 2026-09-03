@@ -40,12 +40,22 @@ should not have to click to find out what a thing is.
 
 ## Colour
 
-The tile is a deep gold, `#6d4c00`. The brief asked for yellow, but bright yellow
-is already Security+ in the command center, and two yellow tiles in one grid read
-as related — which is the thing a colour system exists to prevent. The gold is
-deep rather than bright because both the header and the small "Full Tile" link
-sit on it, and at 11.5px that link is body text needing 7:1. A bright gold would
-have needed dark text and read as Security+ all over again.
+The tile is stainless steel, `#bcc3c9`.
+
+It was a deep gold (`#6d4c00`) first. The original brief asked for yellow, but
+bright yellow is already Security+ in the command center and two yellow tiles in
+one grid read as related, so it went deep gold instead. The owner did not like
+it and asked for stainless silver.
+
+Silver turns out to suit this tile better than the reasoning that produced the
+gold did. It is the only **neutral** in a grid of saturated colours, and that
+reads as deliberate rather than as an odd one out: brushed metal is the finish
+of a workshop, and a workshop is what every link on this page opens.
+
+It is light, so it carries **dark** text — white on it measures 1.6:1, nowhere
+near any floor. That makes it the second dark-text tile in the program after
+Security+ yellow, and in the command center it also flips its "Full Tile" pill
+scrim from the dark pair to the light one for the same reason.
 
 ## Accessibility
 
